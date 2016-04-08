@@ -1,0 +1,44 @@
+.allcards {
+	margin: 20px 35px 0 27px;*/
+}
+.card {
+	box-sizing: border-box;
+	display: inline-block;
+	border: 1px solid lightblue;
+	width: 31%;
+	float: left;
+	padding: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.product-name {
+	text-align: center;
+	font-size: 43px;
+	border: 1px dotted lightgrey;
+	padding: 10px 0px;
+}
+.card-body {
+	border: 1px solid grey;
+	padding:10px;
+}
+.available {
+	background-color:grey;
+	color: yellow;
+	padding: .05px 8px;
+	margin:-10px;
+}
+.specifications p {
+	padding-left: 17px;
+	font-weight: bold;
+}
+.pricing p {
+	padding-left: 17px;
+}
+footer {
+	margin-left: -26px;
+	font-size: 12px;
+}
+.card img {
+	height: 220px;
+	width: 220px;
+}
