@@ -15,7 +15,8 @@
 	text-align: center;
 	font-size: 43px;
 	border: 1px dotted lightgrey;
-	padding: 10px 0px;
+	padding: 0px 0px 10px 0px;
+	margin: -20px 0px 0px 0px;
 }
 .card-body {
 	border: 1px solid grey;
